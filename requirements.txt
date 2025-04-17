@@ -1,0 +1,15 @@
+transformers
+datasets
+sentencepiece
+evaluate
+accelerate
+torch
+sklearn
+pandas
+numpy
+tqdm
+nltk
+scipy
+matplotlib
+rouge-score
+bitsandbytes
